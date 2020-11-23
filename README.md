@@ -74,6 +74,7 @@ For the Fritzing file <a href="https://github.com/t-jones14/Arduino-Nextion-PC-S
 ## Motherboard Wiring
 
 Please reference your motherboard's user manual or contact your motherboard manufacturer to confirm wiring / operation. Again, this software and hardware is provided **AS-IS** with **NO WARRANTY** expressed or implied. I **am not** responsible if you fry your motherboard. Please DO NOT continue if you're not confident in your abilities. I cannot tell you how many times I confirmed details and reconfirmed before attaching any wires up to my $250 motherboard.
+
 <img src="/Source/Images/x570pro-excerpt.png">
 **\*Image:** ASUS Prime X570-Pro User Manual Excerpt\*
 **\*Link:** <a href="https://dlcdnets.asus.com/pub/ASUS/mb/SocketAM4/PRIME_X570-PRO/E17432_PRIME_X570-PRO_UM_v3_web.pdf">Asus Prime X570-Pro User Manual</a>\*
