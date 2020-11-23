@@ -3,7 +3,6 @@
 [![Stargazers](https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/stargazers)
 [![Issues](https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues)
 [![MIT License](https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/master/LICENSE.txt)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/github_username)
 
 <p align="center">
 <br>
@@ -12,13 +11,7 @@
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel</h3>
 <p align="center">
 An external PC system control panel built with Arduino Nano and Nextion Display
-<br>
-    
-<a href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a>
-
-<a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a>
-
-<a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
+<br><a align="center" href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a><br><a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a><br><a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
 </p>
 </p>
 
