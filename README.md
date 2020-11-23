@@ -61,11 +61,11 @@ Links to all used components included. I am not receiving any commissions if you
 <img src="/Source/Fritzing/Schematic.png">
 ***Image:** Wiring Schematic*
 
-For the Fritzing file <a href="">click here</a>.
+For the Fritzing file <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/main/Source/Fritzing/Schematic.fzz">click here</a>.
 
 ## Breadboard Prototype / Bench Test
 
-<img src="/Source/Fritzing/Schematic.png">
+<img src="/Source/Images/breadboard.jpg">
 ***Image:** Breadboard Prototype*
 
 <img src="/Source/Fritzing/Schematic.png">
