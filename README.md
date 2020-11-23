@@ -21,12 +21,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/network/members]
+[![Stargazers][stars-shield]][https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/stargazers]
+[![Issues][issues-shield]][https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues]
+[![MIT License][license-shield]][https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/main/LICENSE]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -42,7 +42,7 @@
   <p align="center">
     An external PC system control panel built with Arduino Nano and Nextion Display
     <br />
-    <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><strong>Explore the docs »</strong></a>
+    <a href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug</a>
