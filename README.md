@@ -4,18 +4,16 @@
 [![Issues](https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues)
 [![MIT License](https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/master/LICENSE.txt)
 
-<br>
+<p align="center">
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/project-logo.png" alt="Logo" width="313"></a>
 
-<br>
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel
-</h3><br>
-An external PC system control panel built with Arduino Nano and Nextion Display
+</h3><br>An external PC system control panel built with Arduino Nano and Nextion Display
 <a align="center" href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a>
 <a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a>
 <a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
+</p>
 
-<br>
 ## About The Project
 
 [!\\\[Product Name Screen Shot\\\]\\\[product-screenshot\\\]](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/)
@@ -59,11 +57,6 @@ Links to all used components included. I am not receiving any commissions if you
 
 ## Wiring Schematic
 
-<img src="/Source/Fritzing/Schematic.png">
-Image: Wiring Schematic
-
-For the Fritzing file <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/main/Source/Fritzing/Schematic.fzz">click here</a>.
-<br>
 #### A Few Notes Regarding the Schematic
 
 1. JP1 & JP2 are to disconnect the RX/TX pins from the Arduino Nano in order to be able to upload code to the Nano without removing it from the PCB. If you leave these connected or forego the jumpers, you will not be able to upload any code to the Arduino if the Nextion is connected since the RX and TX pins are used when the board is communicating via USB.
@@ -72,7 +65,11 @@ For the Fritzing file <a href="https://github.com/t-jones14/Arduino-Nextion-PC-S
 4. J2 are male headers for the wiring from the motherboard front-panel system control headers.
 5. If you're using LED's from your motherboard's LED connections, ensure they are regulated. If on the off-chance they are not, you will need to integrate resistors in-series prior to the LED's.
 
-<br>
+<img src="/Source/Fritzing/Schematic.png">
+Image: Wiring Schematic
+
+For the Fritzing file <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/main/Source/Fritzing/Schematic.fzz">click here</a>.
+
 ## Breadboard Prototype / Bench Test
 
 <img src="/Source/Images/breadboard.jpg">
