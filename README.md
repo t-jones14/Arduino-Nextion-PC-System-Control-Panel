@@ -34,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel">
-    <img src="/Source/Images/project-logo.png" alt="Logo" width="150">
+    <img src="/Source/Images/project-logo.png" alt="Logo" width="313">
   </a>
 
   <h3 align="center">Arduino & Nextion PC System Control Panel</h3>
