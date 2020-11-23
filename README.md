@@ -10,7 +10,7 @@
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/project-logo.png" alt="Logo" width="313"></a>
 
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel
-</h3>An external PC system control panel built with Arduino Nano and Nextion Display
+</h3>An external PC system control panel built with Arduino Nano and Nextion Display<br>
 <a href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">**Explore the docs »**</a>
 
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug</a> · <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature</a>
@@ -30,11 +30,15 @@ This project started when I decided to build a computer. Having never built one 
 
 Overall, this project is rather simple... If you're somewhat semi-technically inclined.
 
+I highly encourage you to do your research and not take on any task you're not 110% comfortable with. As a reminder, this project is provided AS-IS with ZERO WARRANTY in any way, shape, or form. You're on your own. If you fry your motherboard, that's on you.
+
+The saying goes: "*Measure twice, cut once.*" - Abide by it.
+
 ### Here's What You Will Need
 
-Links to all used components included.
+Links to all used components included. I am not receiving any commissions if you use any of the links below.
 
-* General Electronics Experience (Recommended)
+* General Electronics Experience (Highly Recommended)
 * Various Electronics Components
     * X3 Schottky Diodes: <a href="https://www.amazon.com/gp/product/B07YG8K1R9">Amazon</a>
     * X2 LED: <a href="https://www.amazon.com/gp/product/B01C19ENDM">Amazon</a>
@@ -50,6 +54,7 @@ Links to all used components included.
     * Jumper Wires: <a href="https://www.amazon.com/gp/product/B01EV70C78">Amazon</a>
 * Arduino IDE: <a href="https://www.arduino.cc/en/software">Link</a>
 * Nextion Editor: <a href="https://nextion.tech/nextion-editor/">Link</a>
+* A motherboard with front-panel system control headers for a powerswitch, reset switch, +5V & Ground connection
 
 ## Wiring Schematic
 
