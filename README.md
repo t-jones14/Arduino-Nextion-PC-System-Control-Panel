@@ -10,12 +10,16 @@
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/project-logo.png" alt="Logo" width="313"></a>
 
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel</h3>
-An external PC system control panel built with Arduino Nano and Nextion Display<br>
-    <p align="center">
-        <a href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a>
-        <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a>
-        <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
-    </p>
+<p align="center">
+An external PC system control panel built with Arduino Nano and Nextion Display
+<br>
+    
+<a href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a>
+
+<a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a>
+
+<a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
+</p>
 </p>
 
 ## About The Project
