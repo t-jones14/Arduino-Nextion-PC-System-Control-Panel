@@ -1,10 +1,9 @@
+<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<p align="center">
+[![MIT License][license-shield]][license-url]<br>
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/project-logo.png" alt="Logo" width="313"></a>
 
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel
