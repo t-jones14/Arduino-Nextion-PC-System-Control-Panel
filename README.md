@@ -24,7 +24,7 @@ An external PC system control panel built with Arduino Nano and Nextion Display<
 <br>
 
 ## About The Project
-<img src="/Source/Images/build-complete.jpg">
+<img src="/Source/Images/complete-build.jpg">
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/control-panel-display-pcb-mounted.jpg" alt="Finished Project"></a>
 
 This project started when I decided to build a computer. Having never built one before, I decided to go all-out (kind of). I wanted it to be unique and highlight my abilities. Throughout the design and construction phase I entirely neglected to incorporate any system controls and decided to get creative. To stick with the "exposed" theme of the build the idea to incorporate a raw, yet-modern approach was born.
