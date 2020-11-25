@@ -5,7 +5,6 @@
 [![Stargazers](https://img.shields.io/github/stars/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/stargazers)
 [![Issues](https://img.shields.io/github/issues/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/github_username/repo/issues)
 [![MIT License](https://img.shields.io/github/license/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/master/LICENSE.txt)
-
 </p>
 
 <p align="center">
@@ -23,6 +22,7 @@ An external PC system control panel built with Arduino Nano and Nextion Display<
 </p>
 
 <br>
+
 ## About The Project
 
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/control-panel-display-pcb-mounted.jpg" alt="Finished Project"></a>
