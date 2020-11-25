@@ -1,21 +1,20 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors](https://img.shields.io/github/contributors/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/network/members)
+[![Stargazers](https://img.shields.io/github/stars/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/stargazers)
+[![Issues](https://img.shields.io/github/issues/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/github_username/repo/issues)
+[![MIT License](https://img.shields.io/github/license/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/master/LICENSE.txt)
 
-<p align="center">
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/project-logo.png" alt="Logo" width="313"></a>
 
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel
 </h3><br>
-<p align="center">An external PC system control panel built with Arduino Nano and Nextion Display<br>
-<a align="center" href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a><br>
-<a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a><br>
+<br>
+An external PC system control panel built with Arduino Nano and Nextion Display
+<a align="center" href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a>
+<a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a>
 <a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
-</p>
-</p>
 
+<br>
 ## About The Project
 
 <a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/control-panel-display-pcb-mounted.jpg" alt="Finished Project"></a>
@@ -62,10 +61,12 @@ Links to all used components included. I am not receiving any commissions if you
 #### A Few Notes Regarding the Schematic
 
 1. JP1 & JP2 are to disconnect the RX/TX pins from the Arduino Nano in order to be able to upload code to the Nano without removing it from the PCB. If you leave these connected or forego the jumpers, you will not be able to upload any code to the Arduino if the Nextion is connected since the RX and TX pins are used when the board is communicating via USB.
-2. You can forego the LEDs and Pushbuttons. I opted for them for extra effect and as a backup in case the Nextion display ever stopped working before I could replace it. Better to be over-prepared than under-prepared.
-3. J1 are male headers for connection to the Nextion display.
-4. J2 are male headers for the wiring from the motherboard front-panel system control headers.
-5. If you're using LED's from your motherboard's LED connections, ensure they are regulated. If on the off-chance they are not, you will need to integrate resistors in-series prior to the LED's.
+2. J1 Pin 1 MUST be a constant +5V to power the board and display. I have my BIOS set to always supply +5 to USB so I just ran a USB from an available USB header off the motherboard.
+3. J2 Pin 4 must be +5V from the motherboard ONLY when the MB is alive. I used the +5V on the System Panel Connector header for the System Warning Speaker. See below.
+4. You can forego the LEDs and Pushbuttons. I opted for them for extra effect and as a backup in case the Nextion display ever stopped working before I could replace it. Better to be over-prepared than under-prepared.
+5. J1 are male headers for connection to the Nextion display.
+6. J2 are male headers for the wiring from the motherboard front-panel system control headers.
+7. If you're using LED's from your motherboard's LED connections, ensure they are regulated. If on the off-chance they are not, you will need to integrate resistors in-series prior to the LED's.
 
 <img src="/Source/Fritzing/Schematic.png">
 Image: Wiring Schematic
@@ -118,16 +119,3 @@ Project Link: [https://github.com/github/t-jones14/Arduino-Nextion-PC-System-Con
 ## Acknowledgements
 
 * [Read Me Template by othneildrew](https://github.com/othneildrew/Best-README-Template)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge
-[contributors-url]: https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge
-[forks-url]: https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/network/members
-[stars-shield]: https://img.shields.io/github/stars/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge
-[stars-url]: https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/stargazers
-[issues-shield]: https://img.shields.io/github/issues/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge
-[license-url]: https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/master/LICENSE.txt
