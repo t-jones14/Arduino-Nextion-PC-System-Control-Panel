@@ -4,7 +4,7 @@
 [![Forks](https://img.shields.io/github/forks/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/network/members)
 [![Stargazers](https://img.shields.io/github/stars/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/stargazers)
 [![Issues](https://img.shields.io/github/issues/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/github_username/repo/issues)
-[![MIT License](https://img.shields.io/github/license/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/master/LICENSE.txt)
+[![MIT License](https://img.shields.io/github/license/t-jones14/Arduino-Nextion-PC-System-Control-Panel.svg?style=for-the-badge)](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/blob/main/LICENSE)
 </p>
 
 <p align="center">
