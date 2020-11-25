@@ -9,7 +9,7 @@
 
 <h3 align="center">Arduino &amp; Nextion PC System Control Panel
 </h3><br>
-<p align="center">An external PC system control panel built with Arduino Nano and Nextion Display<br><br>
+<p align="center">An external PC system control panel built with Arduino Nano and Nextion Display<br>
 <a align="center" href="https://t-jones14.github.io/Arduino-Nextion-PC-System-Control-Panel/">Explore the docs »</a><br>
 <a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Report Bug »</a><br>
 <a align="center" href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues">Request Feature »</a>
@@ -18,7 +18,7 @@
 
 ## About The Project
 
-[!\\\[Product Name Screen Shot\\\]\\\[product-screenshot\\\]](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/)
+<a href="https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel"><img src="/Source/Images/control-panel-display-pcb-mounted.jpg" alt="Finished Project"></a>
 
 This project started when I decided to build a computer. Having never built one before, I decided to go all-out (kind of). I wanted it to be unique and highlight my abilities. Throughout the design and construction phase I entirely neglected to incorporate any system controls and decided to get creative. To stick with the "exposed" theme of the build the idea to incorporate a raw, yet-modern approach was born.
 
@@ -77,7 +77,7 @@ For the Fritzing file <a href="https://github.com/t-jones14/Arduino-Nextion-PC-S
 <img src="/Source/Images/breadboard.jpg">
 Image: Breadboard Prototype
 
-<img src="/Source/Fritzing/Schematic.png">
+<img src="/Source/Images/proto-pcb-mounted.jpg">
 Image: Final PCB Prototype
 
 ## Motherboard Wiring
@@ -88,8 +88,8 @@ Please reference your motherboard's user manual or contact your motherboard manu
 Image: ASUS Prime X570-Pro User Manual Excerpt
 Link: <a href="https://dlcdnets.asus.com/pub/ASUS/mb/SocketAM4/PRIME_X570-PRO/E17432_PRIME_X570-PRO_UM_v3_web.pdf">Asus Prime X570-Pro User Manual</a>
 
-<img src="/Source/Fritzing/Schematic.png">
-Image: Motherboard System Panel Connection Jumpers
+<img src="/Source/Images/X570Pro-headers.jpg">
+Image: Motherboard System Panel Connection Headers
 
 ## Roadmap
 
