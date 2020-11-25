@@ -102,7 +102,7 @@ Image: Motherboard System Panel Connection Headers
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/Arduino-Nextion-PC-System-Control-Panel/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/t-jones14/Arduino-Nextion-PC-System-Control-Panel/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
